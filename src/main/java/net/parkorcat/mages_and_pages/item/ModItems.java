@@ -6,7 +6,6 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
 import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraftforge.registries.RegistryObject;
-import net.parkorcat.mages_and_pages.magesandpagesmod;
 
 public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
