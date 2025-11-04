@@ -1,5 +1,6 @@
 package net.parkorcat.mages_and_pages.item;
 
+import net.parkorcat.mages_and_pages.magesandpagesmod;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
