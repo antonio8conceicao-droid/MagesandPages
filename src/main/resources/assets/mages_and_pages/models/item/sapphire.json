@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mages_and_pages:item/sapphire"
+  }
+}
