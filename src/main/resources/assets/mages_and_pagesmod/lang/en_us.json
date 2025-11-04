@@ -1,4 +1,6 @@
 {
   "item.mages_and_pagesmod.sapphire": "Sapphire",
-  "item.mages_and_pagesmod.raw_sapphire": "Raw Sapphire"
+  "item.mages_and_pagesmod.raw_sapphire": "Raw Sapphire",
+
+  "creativetab.mages_and_pagesmodetab": "Mages and Pages"
 }
