@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "mages_and_pagesmod:block/sapphire_block"
+  }
+}

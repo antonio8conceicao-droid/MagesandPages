@@ -14,6 +14,7 @@ import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.parkorcat.mages_and_pages.block.ModBlocks;
 import net.parkorcat.mages_and_pages.item.ModCreativeModTabs;
 import net.parkorcat.mages_and_pages.item.ModItems;
 import org.slf4j.Logger;
@@ -35,6 +36,7 @@ public class magesandpagesmod {
         ModCreativeModTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
