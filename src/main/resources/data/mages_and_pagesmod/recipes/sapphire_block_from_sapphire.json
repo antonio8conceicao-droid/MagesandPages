@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key":{
+    "#": {
+      "item": "mages_and_pagesmod:sapphire"
+    }
+  },
+  "result": "mages_and_pagesmod:sapphire_block"
+}

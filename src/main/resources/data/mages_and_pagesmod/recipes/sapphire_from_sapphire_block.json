@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mages_and_pagesmod:sapphire_block"
+    }
+  ],
+  "result": {
+    "item": "mages_and_pagesmod:sapphire",
+    "count": "9"
+  }
+}
