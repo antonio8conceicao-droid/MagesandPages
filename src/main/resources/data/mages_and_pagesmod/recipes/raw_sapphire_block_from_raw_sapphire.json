@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "mages_and_pagesmod:raw_sapphire"
+    }
+  },
+  "result": {
+    "item": "mages_and_pagesmod:raw_sapphire_block",
+    "count": 1
+  }
+}
