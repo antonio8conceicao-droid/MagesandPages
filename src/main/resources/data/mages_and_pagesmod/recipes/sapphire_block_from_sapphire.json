@@ -6,10 +6,13 @@
     "###",
     "###"
   ],
-  "key":{
+  "key": {
     "#": {
       "item": "mages_and_pagesmod:sapphire"
     }
   },
-  "result": "mages_and_pagesmod:sapphire_block"
+  "result": {
+    "item": "mages_and_pagesmod:sapphire_block",
+    "count": 1
+  }
 }
